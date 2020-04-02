@@ -1,0 +1,11 @@
+C:\Users\aibol\source\repos\work\Database\bin\Debug\netcoreapp3.1\Database.exe
+C:\Users\aibol\source\repos\work\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\aibol\source\repos\work\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.json
+C:\Users\aibol\source\repos\work\Database\bin\Debug\netcoreapp3.1\Database.runtimeconfig.dev.json
+C:\Users\aibol\source\repos\work\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\aibol\source\repos\work\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\aibol\source\repos\work\Database\obj\Debug\netcoreapp3.1\Database.csprojAssemblyReference.cache
+C:\Users\aibol\source\repos\work\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\aibol\source\repos\work\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\aibol\source\repos\work\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\aibol\source\repos\work\Database\obj\Debug\netcoreapp3.1\Database.pdb
